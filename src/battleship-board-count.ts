@@ -131,7 +131,7 @@ console.log(solution_number ([
 
 console.log(solution_number ([
   '02000200',
-  '03200320',
+  '03202300',
   '00002222'
 ]));
 
